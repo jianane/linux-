@@ -1,2 +1,2 @@
 # linux_ops
-https://github.com/jianane/linux_ops/new/master?readme=1
+[git服务器搭建](https://github.com/jianane/linux_ops/new/master?readme=1)
